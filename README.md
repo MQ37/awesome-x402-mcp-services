@@ -60,6 +60,7 @@ This is not a directory of crypto trading bots, token screens, payment routers, 
 
 ### Marketing
 
+* [CFP SEO Agent](https://agent.chiemgaufilms.com) — SEO data for agents: keyword metrics, difficulty and ideas, Google and Bing SERP, ranked keywords, keyword gap, domain overview, competitors, search intent, Google Trends, local business and page audit, from $0.02 per call. Hosted MCP at `https://agent.chiemgaufilms.com/mcp` (streamable HTTP, no key); `initialize` and `tools/list` are free, one sample keyword per day is free, and unpaid tool calls return an x402 payment error (USDC on Base).
 * [Social Intel](https://socialintel.dev) — Instagram influencer search by niche, country, city, and follower count. Hosted MCP at `https://socialintel.dev/mcp`. Paid `search_leads` via x402; `demo=true` is free.
 
 ### Monitoring
